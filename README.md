@@ -1,8 +1,7 @@
 # A.Penn_Portfolio
 Bioinformatics and healthcare data science portfolio featuring machine learning, transcriptomics, predictive analytics, and biomedical data projects developed during my M.S. Bioinformatics program.
 
-# Iris Flower Species Classification
-
+# [Iris Flower Species Classification](https://github.com/APenn215/Iris-Flower-Species-Classification)
 ## Overview
 This project applies supervised machine learning to classify Iris flower species using sepal and petal measurements. It demonstrates a complete beginner-to-intermediate classification workflow.
 
